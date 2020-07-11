@@ -1,4 +1,4 @@
-""" Webapp for SimilarTenFile module
+""" Webapp for picture-in-picture
 
 Author: Bishwas
 
